@@ -68,7 +68,7 @@ HoverSprite is a Vietnamese agricultural solutions company specializing in organ
    Create UML Component Diagrams, justify architectural decisions, and implement Spring Boot components.
 
 3. **UI/UX Design and Front-end Development:**
-   Align UI with Nielsen heuristics, provide examples and justifications for UI decisions, and develop the React components (if using React).
+   Align UI with Nielsen heuristics, provide examples and justifications for UI decisions.
 
 4. **Documentation and Integration:**
    Ensure documentation is thorough, and oversee integration of front-end and back-end components.
