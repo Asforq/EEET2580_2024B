@@ -62,15 +62,15 @@ HoverSprite is a Vietnamese agricultural solutions company specializing in organ
 
 ## Task Assignments
 1. **Data Model Design and Database Construction**
-   - Team Member 1: Develop the conceptual data model and implement the database schema.
+   Develop the conceptual data model and implement the database schema.
 
 2. **System Architecture Design and Back-end Development**
-   - Team Member 2: Create UML Component Diagrams, justify architectural decisions, and implement Spring Boot components.
+   Create UML Component Diagrams, justify architectural decisions, and implement Spring Boot components.
 
 3. **UI/UX Design and Front-end Development**
-   - Team Member 3: Align UI with Nielsen heuristics, provide examples and justifications for UI decisions, and develop the React components (if using React).
+   Align UI with Nielsen heuristics, provide examples and justifications for UI decisions, and develop the React components (if using React).
 
 4. **Documentation and Integration**
-   - Team Member 4: Contribute to a comprehensive 25-page report, ensure documentation is thorough, and oversee integration of front-end and back-end components.
+   Ensure documentation is thorough, and oversee integration of front-end and back-end components.
 
 
